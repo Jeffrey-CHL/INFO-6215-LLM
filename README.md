@@ -1,1 +1,1 @@
-# INFO-6215-LLM
+# INFO-6215-Business Analyst
